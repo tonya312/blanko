@@ -1,0 +1,16 @@
+
+
+.header{
+    background-color: black;
+}
+.header__mail, .header__link {
+    color: #FFF;
+    text-decoration: none;
+    font-family: "Roboto", serif;
+}
+
+.header{
+display: flex;
+justify-content: space-between;
+padding-left: 320px;
+}
